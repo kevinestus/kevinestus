@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Kevin! </h1>
 
-<!--
-**kevinestus/kevinestus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>SQL Projects</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+- <b>Data Visualization Projects</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+    
+- <b>Certifications</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
