@@ -2,13 +2,14 @@
 
 <h2> Data Analytics Projects:</h2>
 
-- <b>SQL Projects</b>
+- <b>Coming Soon</b>
   
  
-- <b>Data Visualization Projects</b>
+- <b>Coming Soon</b>
   
     
-- <b>Certifications</b>
+ <h2> Certifications:</h2>
+  
   - [CompTIA Security+](https://github.com/kevinestus/compTIA-Security-)
   - [Tableau Desktop Specialist](https://github.com/kevinestus/TableauDesktopSpecialist)
 
