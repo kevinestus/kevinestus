@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! Welcome to my portfolio.</h1>
+<h1>I am Kevin, and this is my Data Analyst portfolio.</h1>
 
 <h2> Data Analytics Projects:</h2>
 
