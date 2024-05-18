@@ -1,6 +1,6 @@
 <h1>I am Kevin, and this is my Data Analyst portfolio.</h1>
 
-<h2> Data Analytics Projects:</h2>
+<h2> Projects:</h2>
 
 - <b>Coming Soon</b>
   
