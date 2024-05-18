@@ -10,7 +10,7 @@
     
 - <b>Certifications</b>
   - [CompTIA Security+](https://github.com/kevinestus/compTIA-Security-)
-  - Tableau Desktop Specialist
+  - [Tableau Desktop Specialist](https://github.com/kevinestus/TableauDesktopSpecialist)
 
 
 
