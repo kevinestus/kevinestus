@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevin! Welcome to my portfolio.</h1>
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2> Data Analytics Projects:</h2>
 
 - <b>SQL Projects</b>
   - 
