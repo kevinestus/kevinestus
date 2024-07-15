@@ -2,7 +2,7 @@
 
 <h2> Projects:</h2>
 
-- <b>Instagram-SQL</b>
+- [<b>Instagram-SQL</b>](https://github.com/kevinestus/instagram-sql)
   
  
 - <b>Coming Soon</b>
