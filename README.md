@@ -2,7 +2,7 @@
 
 <h2> Projects:</h2>
 
-- <b>Coming Soon</b>
+- <b>Instagram-SQL</b>
   
  
 - <b>Coming Soon</b>
